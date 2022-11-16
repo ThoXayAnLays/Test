@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "e5739be858103152bdb0b1d72f8284a0"
+	name: "Bucaw"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

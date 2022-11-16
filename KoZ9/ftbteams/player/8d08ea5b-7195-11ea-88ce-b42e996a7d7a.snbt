@@ -1,0 +1,20 @@
+{
+	id: "8d08ea5b-7195-11ea-88ce-b42e996a7d7a"
+	type: "player"
+	player_name: "KoZ9KoZ9"
+	ranks: {
+		8d08ea5b-7195-11ea-88ce-b42e996a7d7a: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "KoZ9KoZ9"
+		"ftbteams:color": "#6359FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
